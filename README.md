@@ -48,7 +48,9 @@ Community Crafters empowers users to share materials, form collaborations, and e
    http://localhost:3000
    ```
 
-(Port may vary depending on project setup, please check in the code if different.)
+### ℹ️ Note about Ports
+- When you start the server, the port number might change if the default port is already in use.
+- Please check the terminal output after running the ` npm run dev` command.
 
 ## 🌐 More Information
 Explore the full documentation and system design through the [Community Crafters Wiki](https://github.com/SewarAslan/CraftProj/wiki).
