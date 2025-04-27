@@ -1,5 +1,5 @@
 
-# 🎨 Community Crafters Project
+# Community Crafters Project
 
 **An innovative platform for connecting crafters, sharing resources, and collaborating on creative projects.**
 
